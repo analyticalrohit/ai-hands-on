@@ -96,6 +96,13 @@ Recommended workflow:
 3. Folder to run separately:
    - `5.RAG/`
    - `6.OCR/`
+  
+4. Resources
+5. Basic ML Model Implementation (Supervised + Un-supervised + RL)
+   - `1.Linear Regression`
+   - `2.Logistic Regression`
+   - `3.Decision Tree Model`
+   - `4.Naive Bayes Classification`
 
 ## Contributing
 
