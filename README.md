@@ -62,7 +62,7 @@ Recommended reading to deepen your understanding (not included):
 - `Neural Networks and Deep Learning` by Michael Nielsen
 - `SQL Cookbook` by Anthony Molinaro
 
-For more books in AI/ML, I have created another repo for this. [Check Here](https://github.com/Ramakm/AI-ML-Book-References.git). I will be adding lot more in coming days/months. If you are interested to read book, go check this repo out.
+For more books in AI/ML, I have created another repo for this [Check Here](https://github.com/Ramakm/AI-ML-Book-References.git). I will be adding lot more in coming days/months. If you are interested to read book, go check this repo out.
 
 ## Learning Path
 
