@@ -105,6 +105,13 @@ Recommended workflow:
    - `2.Logistic Regression`
    - `3.Decision Tree Model`
    - `4.Naive Bayes Classification`
+  
+## Machine Learning Frameworks
+
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [XGBoost](https://xgboost.ai/)
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
+- [CatBoost](https://catboost.ai/)
 
 ## Contributing
 
